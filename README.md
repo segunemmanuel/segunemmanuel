@@ -1,9 +1,9 @@
 
-🎓 I'm a MSc Data and Information Science student at the University of Ibadan
+1. **🎓 I'm a MSc Data and Information Science student at the University of Ibadan**
 <!-- 🔭 I’m currently developing a mobile app with Glideapps. -->
-🌱 I’m currently learning Laravel and java
-👯 I’m looking to collaborate with anyone on any project.
-💬 Ask me about anything
+2. **🌱 I’m currently learning Laravel and java**
+3. **👯 I’m looking to collaborate with anyone on any project.**
+4. **💬 Ask me about anything**
 
 ## ✉️ Find me on:
 
